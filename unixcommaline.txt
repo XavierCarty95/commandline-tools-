@@ -1,0 +1,46 @@
+Linix is like a Unix operating system 
+
+Free and Open source 
+
+Kernel ia heart of any operating system 
+
+It is the lowest level software that interfaces with the hardward of the computer 
+
+directore structue 
+
+file permissions 
+
+/bin most important file system in linux 
+
+can see all the commands in /bin 
+
+/etc host most of configuration files for linux 
+
+/dev is all the devices system can use
+
+/boot actual linux 
+
+/lib contains all of the library files 
+
+/home storing personal files 
+
+man 
+
+ls -l to look at file and permissions
+
+three permission rwx = read write and execut 
+
+chmod 000 stands for no permission , owner , group rest 
+
+chmod 777 stands for all permission to everyone owner , group , rest
+
+grep find a command 
+
+ls -l | tee record
+
+> to write txt 
+
+>> append the data at the end of the file 
+
+whoami to see current user 
+
