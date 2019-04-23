@@ -1,0 +1,47 @@
+getmac = your current mac address 
+
+arp -a  = conversion of ip to mac address 
+
+arp -g = same as -a 
+
+apr -s = serving static ip addresses.
+
+arp -d and ip address to delete ip address 
+
+ipconfig -
+
+ipconfig /all = gives detailed information about system
+
+ipconfig /release .... releases all ip addresses
+
+ipconfig/ renew ... gets back the new ipaddress
+
+netstat ... to see if you are making any connections with other computers 
+
+netstat -an .... same 
+
+taskmgr .. open task messager '
+
+tasklist shows all the task running .. 
+
+notepad | findstr notepad .... fids note 
+
+taskill /PID 77960 /F
+
+net user ... to see al the users 
+
+net user <name>  /add
+
+net user <name>  /delete
+
+
+local groups computer have. 
+
+net localgroup users to see all users on comp 
+
+net localgroup adminstrators .... to see all administrators
+
+net localgroup adminstrators guest /add ... to give that user privelages 
+
+net users guests password  .... set password for netuser 
+
